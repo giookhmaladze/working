@@ -1,0 +1,7 @@
+.info{
+    display: flex;
+    align-items: center;
+    border: 2px black solid;
+    gap: 38px;
+}
+
